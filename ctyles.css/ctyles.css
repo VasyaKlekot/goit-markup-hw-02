@@ -1,7 +1,9 @@
 
 .body {
-    font-family: 'Roboto', sans-serif;
-    background: #FFFFFF}
+font-family: "Roboto" sans-serif;
+color: #434455;
+background-color: #FFFFFF; 
+}
 
 /* ======Header===== */
 .header {
@@ -155,8 +157,7 @@ background: #4D5AE5;
     color: #434455;
         font-size: 16px;
         line-height: 1.5;
-        letter: spacing 0.02em;
-}
+        letter-spacing: 0.02em;}
 /* ========== */
 
 /* =====Portfolio===== */
