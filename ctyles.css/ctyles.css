@@ -1,6 +1,6 @@
 
 body {
-font-family: "Roboto" sans-serif;
+font-family: Roboto sans-serif;
 color: #434455;
 background-color: #FFFFFF; 
 }
@@ -12,13 +12,13 @@ background-color: #FFFFFF;
 
 .header-logo {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway sans-serif;
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
     cursor: pointer;
+    text-transform: uppercase;
 }
 
 .header-logo-web {
@@ -37,6 +37,7 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     text-decoration: none;
     cursor: pointer;
+    
 }
 
 .header-menu-link:hover {
