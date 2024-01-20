@@ -160,11 +160,11 @@ background-color: #404BBF
     text-transform: capitalize;
 }
 
-.caption-list {
-    background-color: #FFFFFF
-}
+.caption-list {}
 
-.caption-item {}
+.caption-item {
+    background-color: #FFFFFF:
+}
 
 .caption-picture {}
 
