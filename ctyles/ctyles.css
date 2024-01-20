@@ -24,6 +24,8 @@ background-color: #FFFFFF;
 
 .header-logo-web {
     color: #2E2F42;
+   font-family: 'Raleway' sans-serif;
+
 }
 
 .header-list {}
@@ -87,7 +89,7 @@ background-color: #FFFFFF;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #ffffff
+    color: #ffffff;
 }
 
 .hero-btn {
@@ -185,7 +187,7 @@ background-color: #404BBF
 
 /* =====Portfolio===== */
 .portfolio {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .portfolio-title {
@@ -228,6 +230,7 @@ background-color: #404BBF
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase;
+    font-size: 18px;
 }
 
 .footer-logo-web {
