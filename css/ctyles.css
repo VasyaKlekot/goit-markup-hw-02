@@ -163,10 +163,11 @@ background-color: #404BBF
 .caption-list {}
 
 .caption-item {
-    background-color: #FFFFFF:
 }
 
-.caption-picture {}
+.caption-picture {
+background-color: #FFFFFF:
+}
 
 .caption-headline {
     color: #2E2F42;
