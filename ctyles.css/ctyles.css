@@ -184,7 +184,9 @@ background-color: #404BBF
 /* ========== */
 
 /* =====Portfolio===== */
-.portfolio {}
+.portfolio {
+    background-color: #FFFFFF
+}
 
 .portfolio-title {
     color: #2E2F42;
@@ -220,11 +222,12 @@ background-color: #404BBF
 /* =====Footer===== */
 .footer-logo {
     color: #4D5AE5;
-    font-family: Raleway;
-    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .footer-logo-web {
